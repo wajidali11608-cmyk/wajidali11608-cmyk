@@ -1,22 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=WAJID&fontSize=50&fontColor=58A6FF&fontAlignY=55&animation=fadeIn" width="100%"/>
 
-<img src="https://avatars.githubusercontent.com/u/234581566?v=4" width="140" style="border-radius: 50%;" />
-
-<h1>WAJID</h1>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&lines=Software+Developer;Clean+code.+Reliable+systems.+No+shortcuts." alt="Typing SVG" />
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=wajidali11608-cmyk&style=flat-square&color=161b22&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/status-open_to_work-0d1117?style=flat-square&labelColor=0d1117&color=58A6FF" />
-<img src="https://img.shields.io/github/followers/wajidali11608-cmyk?style=flat-square&labelColor=0d1117&color=58A6FF" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3200&pause=1200&color=8B949E&center=true&vCenter=true&width=560&lines=Clean+code.+Reliable+systems.+No+shortcuts." alt="Typing SVG" />
 
 </div>
 
 <br>
+
+```
+
+   ┌───────────────┐       wajid@dev
+   │   ┌───────┐   │       ──────────────────────────────
+   │   │ {   } │   │       Role        : Software Developer
+   │   │ {   } │   │       Languages   : Python · JavaScript · TypeScript
+   │   └───────┘   │       Focus       : Full-Stack Development
+   │  ─┴─┴─┴─┴─┴─  │       Status      : Open to work
+   └───────────────┘       Contact     : github.com/wajidali11608-cmyk
+
+```
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="60%">
@@ -52,8 +54,4 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=140&section=footer" width="100%"/>
-
-<div align="center">
-<sub>github.com/wajidali11608-cmyk</sub>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer" width="100%"/>
