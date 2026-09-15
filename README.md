@@ -1,20 +1,14 @@
+<div align="center">
+
+<img src="assets/mark.svg" width="140"/>
+
 # Wajid Ali
+
+</div>
 
 ```
 wajidali@dev
 ────────────────────────────────
-
-      ▄▄▄▄▄
-    ▄███████▄
-   █████████████
-  ███▀▀▀▀▀▀▀███
-  ███         ███
-  ███         ███
-  ███▄▄▄▄▄▄▄███
-   █████████████
-    ▀███████▀
-      ▀▀▀▀▀
-
 Status  : Open to work
 Contact : github.com/wajidali11608-cmyk
 ```
@@ -31,7 +25,14 @@ Outside of writing code, I care about doing things properly — attention to det
 
 ---
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wajidali11608-cmyk&theme=github-compact&hide_border=true&bg_color=0d1117&color=39d353&line=39d353&point=c9d1d9)
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=wajidali11608-cmyk&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wajidali11608-cmyk&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=wajidali11608-cmyk&theme=github-dark-blue&hide_border=true&background=0d1117&ring=39d353&fire=39d353&currStreakLabel=39d353" />
+
+</div>
 
 ![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
