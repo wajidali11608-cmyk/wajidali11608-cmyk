@@ -9,7 +9,7 @@ Contact : github.com/wajidali11608-cmyk
 
 ---
 
-### about
+### About
 
 I'm a software developer who cares about writing code that's clean, reliable, and built to last. I like solving real problems more than chasing trends if something works well and holds up over time, that matters more to me than how impressive it sounds on paper.
 
